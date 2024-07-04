@@ -1,0 +1,42 @@
+* {
+    color: black;
+    
+    box-sizing: border-box;
+  }
+  
+  /* Create two equal columns that floats next to each other */
+  .column {
+    color: black;
+    background-color: rgb(247, 235, 230);
+    float: left;
+    width: 50%;
+    padding: 10px;
+    height: 300px; /* Should be removed. Only for demonstration */
+  }
+  
+  /* Clear floats after the columns */
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+  .box:hover {
+    color: red;
+    background-color: coral;
+  }
+
+  .boxB {
+    border-radius: 50%;
+    background-color: rgb(233, 152, 123);
+    float: right;
+    display: inline;
+    margin-right: 130px;
+    height: 30px;
+    width: 90px;
+  }
+
+  .boxB:hover {
+     color: crimson;
+    background-color: burlywood;
+  }

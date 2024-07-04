@@ -1,0 +1,55 @@
+.container-fluid {
+    list-style-type: none;
+    margin: 0%;
+    padding: 0%;
+    background-color: rgb(247, 228, 199);
+    overflow: hidden;  
+    
+    
+    
+} 
+
+
+.navbar-nav{
+   
+    display: flex;
+    list-style-type: none;
+    margin: 15px;
+    padding: 0;
+    overflow: hidden;
+    
+
+}
+
+.nav-item{
+
+   display: flex;
+   color: black;
+   text-align: center;
+   padding: 14px 16px;
+   text-decoration: none;
+
+}
+
+.nav-link:hover{
+    background-color:burlywood;
+}
+a{
+    color: black;
+   text-decoration: none; 
+}
+
+.navbar-toggler-icon:hover{
+
+    background-color:aliceblue;
+    
+}
+
+.active{
+     float: right;
+}
+
+.btn btn-default btn-sm{
+    float: left;
+    padding-right: 0%;
+}
