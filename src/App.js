@@ -11,7 +11,7 @@ function App() {
 
        <div>
        <Nav/>
-       <Collections/>
+       <Collections/> 
        </div>
       
     </div>

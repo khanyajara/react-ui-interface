@@ -26,12 +26,7 @@ function navigation () {
         <li className="nav-item">
           <a className="nav-link" href="#Contact">Contact</a>
         </li>
-        <li className="nav-item" >
-        
-<button> <a href="https://www.flaticon.com/free-icons/cart" title="cart icons"></a></button>
-          </li>
-        
-      </ul>
+         </ul>
     </div>
   </div>
 </nav>
