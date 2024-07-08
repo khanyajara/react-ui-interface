@@ -27,13 +27,14 @@
   }
 
   .boxB {
-    border-radius: 20px;
-    background-color: rgb(233, 152, 123);
+    border-radius: 5px;
+    background-color: rgb(250, 128, 13);
     float: right;
     display: inline;
-    margin-right: 130px;
-    height: 30px;
-    width: 90px;
+    margin-right: 457px;
+    height: 40px;
+    width: 190px;
+    border-color: transparent;
   }
 
   .boxB:hover {

@@ -64,21 +64,21 @@ box-sizing: content-box;
   color: black;
   width: 35px;
   padding: 0;
-  height: 69px;
-  width: 69px;
-  border-radius: 25%;
+  height: 70px;
+  width: 70px;
+  border-radius: 10%;
 
 }
 
 .img2{
 
-  border-radius: 25%;
+  border-radius: 5%;
 }
 
 .butt{
 
   background-color: transparent;
-  border-radius: 25%;
+  border-radius: 5%;
   border-color: transparent;
 
 }
@@ -88,9 +88,11 @@ box-sizing: content-box;
 
   background-color: lightsalmon;
   box-shadow: lightsalmon;
+  border-color: brown;
 }
 
 .nav-items2{
 
   margin-left:100% ;
 }
+
