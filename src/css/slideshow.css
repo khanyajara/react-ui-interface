@@ -1,11 +1,12 @@
 .flex {
-  margin-left: 10px;
+  margin-left: 90px;
 display: flex;
 flex-direction: column;
 width: 290px;
 height: 256px;
 background-color: transparent;
 box-sizing: content-box;
+
 
 
 }
@@ -30,7 +31,7 @@ box-sizing: content-box;
   display: flex;
   color: black;
   text-align: center;
-  padding: 14px 16px;
+  
   text-decoration: none;
  background-color: transparent;
 
@@ -57,7 +58,8 @@ box-sizing: content-box;
   color: black;
   width: 35px;
   padding: 0;
-  
+  height: 69px;
+  width: 69px;
 
 }
 
@@ -65,4 +67,10 @@ box-sizing: content-box;
 
   background-color: transparent;
   border-color: transparent;
+
+}
+
+.nav-items2{
+
+  margin-left:100% ;
 }

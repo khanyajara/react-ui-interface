@@ -1,4 +1,5 @@
 .container-fluid {
+    display: flex;
     list-style-type: none;
     margin: 0%;
     padding: 0%;
@@ -16,10 +17,10 @@
    
     display: flex;
     list-style-type: none;
-    margin: 15px;
-    padding: 0;
+    margin-left: 0px;    
     overflow: hidden;
-    
+    padding-top: 0;
+    color: darkgray;
 
 }
 
@@ -54,4 +55,34 @@ a{
 .btn btn-default btn-sm{
     float: left;
     padding-right: 0%;
+}
+
+.navbar-toggler-icon{
+
+    margin: 25px;
+    background-color: transparent;
+}
+
+.navbar{
+
+    display: inline;
+}
+
+.navbar-toggler{
+
+
+    background-color: transparent;
+    border-color: transparent;
+}
+
+.nav-item2{
+     
+    padding-top: 25px;
+    margin-left: 530px ;
+    justify-content: space-between;
+}
+
+.nav-item3 {
+
+    margin-left: 25px;
 }
