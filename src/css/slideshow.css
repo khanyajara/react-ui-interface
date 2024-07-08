@@ -1,9 +1,9 @@
 .flex {
-  margin-left: 90px;
+  margin-left: 41px;
 display: flex;
 flex-direction: column;
-width: 290px;
-height: 256px;
+width: 330px;
+height: 290px;
 border-radius: 25%;
 box-sizing: content-box;
 
@@ -37,7 +37,7 @@ box-sizing: content-box;
   display: flex;
   color: black;
   text-align: center;
-  
+  width:87px;
   text-decoration: none;
  background-color: transparent;
 
@@ -62,17 +62,20 @@ box-sizing: content-box;
   display: flex;
   float: left;
   color: black;
-  width: 35px;
+  width: 45px;
   padding: 0;
   height: 70px;
   width: 70px;
   border-radius: 10%;
+  
 
 }
 
 .img2{
-
+   
   border-radius: 5%;
+
+
 }
 
 .butt{

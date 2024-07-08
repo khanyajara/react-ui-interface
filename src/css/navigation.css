@@ -87,3 +87,7 @@ a{
 
     margin-left: 25px;
 }
+.collapse navbar-collapse{
+
+    color: grey;
+}
