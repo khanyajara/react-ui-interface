@@ -17,7 +17,7 @@ function slides (){
   return(
 <div className="card" >
     <div className="flex">
-        <img src={image1}/>
+        <img  className="img2" src={image1}/>
     </div>
     <div className="bottom">
         <div className="smallbox">

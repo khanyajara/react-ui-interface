@@ -4,11 +4,17 @@ display: flex;
 flex-direction: column;
 width: 290px;
 height: 256px;
-background-color: transparent;
+border-radius: 25%;
 box-sizing: content-box;
 
 
 
+}
+
+.img2 :hover{
+
+  background-color: coral;
+  border-color: brown;
 }
 
 
@@ -60,14 +66,28 @@ box-sizing: content-box;
   padding: 0;
   height: 69px;
   width: 69px;
+  border-radius: 25%;
 
+}
+
+.img2{
+
+  border-radius: 25%;
 }
 
 .butt{
 
   background-color: transparent;
+  border-radius: 25%;
   border-color: transparent;
 
+}
+
+
+.butt:hover{
+
+  background-color: lightsalmon;
+  box-shadow: lightsalmon;
 }
 
 .nav-items2{
