@@ -27,7 +27,9 @@ box-sizing: content-box;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
-  gap: 20;
+  gap: 2.22rem;
+  margin-top: 185px;
+  
   
 }
 
@@ -37,7 +39,7 @@ box-sizing: content-box;
   display: flex;
   color: black;
   text-align: center;
-  width:87px;
+  width:95px;
   text-decoration: none;
  background-color: transparent;
 
@@ -62,10 +64,10 @@ box-sizing: content-box;
   display: flex;
   float: left;
   color: black;
-  width: 45px;
+  width: 65px;
   padding: 0;
-  height: 70px;
-  width: 70px;
+  height: 100px;
+  width: 100px;
   border-radius: 10%;
   
 
@@ -74,6 +76,8 @@ box-sizing: content-box;
 .img2{
    
   border-radius: 5%;
+  height: 600px;
+  width:500px ;
 
 
 }

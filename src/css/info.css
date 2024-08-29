@@ -1,0 +1,19 @@
+.butt1{
+    margin-left: 19px;
+    background-color: transparent;
+    border: none;
+    font-size: xx-large;
+    font: bolder;
+    color: coral;
+    margin-top: 10px;
+}
+
+.butt2{
+    margin-left: 19px;
+    background-color: transparent;
+    border: none;
+    font-size: x-large;
+    font: bolder;
+    margin-top: -20px;
+    
+}

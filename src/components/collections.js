@@ -25,9 +25,11 @@ function collection () {
   </div>
   </div>
   <div class="column2" >
-    <h2>Fall Limited Edition <br></br> Sneakers</h2>
+    <p className="fading">SNEAKER COMPANY</p>
+    <h2 className="heading">Fall Limited Edition <br></br> Sneakers</h2>
     <p className="fontB">These low-profile sneakers are your perfect<br></br> casusl wear companion.Featuring a durable<br></br> rubber outer sole, they'll withstand <br></br> everything the weather can offer. </p>
     <h2>$125.00<button className="box">50%</button> </h2>
+    <p className="line-through">$250.00</p>
    <div><Info/></div>
    
 
