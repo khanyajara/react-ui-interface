@@ -10,4 +10,4 @@ The goal of this challenge is to practice front-end development by recreating an
 1. **Fork and Clone the Repository**:
    ```bash
    git clone https://github.com/khanyajara/react-ui-interface.git
-   cd ui-challenge
+   cd react-ui-interface
